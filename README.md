@@ -28,7 +28,7 @@ The top cage mount featers a mount that can be swapped out with other modular pa
 ![Modular Handle](images/handle.png)
 
 # Acknowledgements
-Designs remixed from the follwing projects: <br>
+Designs remixed from the following projects: <br>
 https://www.thingiverse.com/thing:2505243 <br>
 https://www.thingiverse.com/thing:2450244
 
