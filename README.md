@@ -2,6 +2,8 @@
 Modular system for accessory attachments for mobile device photography/videography or other use
 
 ![full cage with handle](images/cage_with_handle.png)
+![full cage with handle photo](images/setup.jpg)
+
 
 ### Required Hardware
 - 2 [3M x 25mm bolts](https://www.amazon.com/gp/product/B012TE0S6U/ref=ppx_yo_dt_b_asin_title_o00_s01?ie=UTF8&psc=1) and 2 [3M nuts](https://www.amazon.com/gp/product/B071NLDW56/ref=ppx_yo_dt_b_asin_title_o00_s01?ie=UTF8&psc=1)
